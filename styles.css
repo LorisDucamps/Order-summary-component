@@ -79,6 +79,7 @@ main {
     margin: 0 auto;
     border-radius: 1rem;
     background-color: var(--White);
+    box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
     overflow: hidden;
 }
 
